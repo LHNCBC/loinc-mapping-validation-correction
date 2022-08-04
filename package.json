@@ -1,0 +1,19 @@
+{
+  "name": "loinc-mapping-validation-correction",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "@lhncbc/ucum-lhc": "^3.0.0",
+    "commander": "^6.1.0",
+    "csv": "^5.3.2",
+    "exceljs": "^4.3.0",
+    "iconv-lite": "^0.6.2",
+    "xlsx": "^0.18.5"
+  }
+}
